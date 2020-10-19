@@ -16,5 +16,5 @@ In this challenge,First, I created a summary DataFrame of the ride-sharing data 
  
     - There is a correlation between number of rides and the average fare per city. Since rural cities has the minimum total rides and drivers, it has the highest average fare per ride and driver.
     - 
-
+![] (
 ## Summary:
