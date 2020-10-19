@@ -16,13 +16,16 @@ In this challenge,First, I created a summary DataFrame of the ride-sharing data 
  
     - There are substantially more rides and drivers in urban cities than suburban and rural cities.
     - Urban cities have the highest total fares and rural cities have the lowest one.
-    - There is a correlation between number of rides and the average fare per city. Since rural cities has the minimum total rides and drivers, it has the highest average fare per ride and driver.
-    - Urban city graph is significantly higher than others. It shows that total fares for urban cities are higher than suburban and rural cities.
+    - There is a negative correlation between number of rides and driver with the average fare per city. Since rural city has the minimum total rides and drivers, it has the highest average fare per ride and driver.
+    - Urban city graph is significantly higher than others. It shows that total fares for urban city is much higher than suburban and rural cities.
     - As the multi-line graph shows, total fares during January are less than other months.
-    - 
-    - 
+    
     ![](https://github.com/Nazanin-hub/PyBer_Analysis/blob/main/pyber_summary_df.png)
 
 ![](https://github.com/Nazanin-hub/PyBer_Analysis/blob/main/Total%20_Fare%20_by%20_City%20_Type.png)
 
 ## Summary:
+ 
+   - Lenght of the ride can results in more accurate analyze of average fare per ride and driver. Number of drivers and rides can have correlation with duration of the ride. 
+   - Analyzing data in 5 or 10 years can lead to more accurate results.
+   - Some information about the age and population of the cities can shed more light on the reason why some of the city types have high average fare per driver and ride.
