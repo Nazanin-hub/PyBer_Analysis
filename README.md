@@ -5,6 +5,11 @@
  PyBer is a python based ride-sharing app company. I as a data analyst for PyBer used data visualization to help PyBer improve access to ride sharing services and determine        affordability for underserved neighborhoods. 
 In this challenge,First, I created a summary DataFrame of the ride-sharing data by city type. Then, I used Pandas and Mathplotlib to create a multiple-line graph that shows the total weekly fares for each city type.
 
+## Resources:
+
+  - Data Source: city_data.csv, ride_data.csv
+  - Software: Python 3.6.9, Anaconda Navigator 1.9.7, Jupyter Notebook 6.0.1
+
 ## Results:
 
 ## Summary:
