@@ -16,7 +16,8 @@ In this challenge,First, I created a summary DataFrame of the ride-sharing data 
  
     - There is a correlation between number of rides and the average fare per city. Since rural cities has the minimum total rides and drivers, it has the highest average fare per ride and driver.
     - 
-![](https://github.com/Nazanin-hub/PyBer_Analysis/blob/main/pyber_summary_df.png)
+    ![](https://github.com/Nazanin-hub/PyBer_Analysis/blob/main/pyber_summary_df.png)
+
 ![](https://github.com/Nazanin-hub/PyBer_Analysis/blob/main/Total%20_Fare%20_by%20_City%20_Type.png)
 
 ## Summary:
