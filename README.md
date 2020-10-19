@@ -22,7 +22,7 @@ In this challenge,First, I created a summary DataFrame of the ride-sharing data 
     
     ![](https://github.com/Nazanin-hub/PyBer_Analysis/blob/main/pyber_summary_df.png)
 
-![](https://github.com/Nazanin-hub/PyBer_Analysis/blob/main/Total%20_Fare%20_by%20_City%20_Type.png)
+![](https://github.com/Nazanin-hub/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary:
  
