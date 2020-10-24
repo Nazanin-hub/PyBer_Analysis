@@ -26,8 +26,8 @@ In this challenge, First, I created a summary DataFrame of the ride-sharing data
 
 ## Summary:
  
-   - 
-   - 
+   - Decreasing the average fare per ride and driver in suburban and rural cities can result in increasing the number of rides and drivers in these cities.
+   - Since urban city has the highest total fare, expanding the market in urban cities can result in higher revenue stream.
    - 
    - Lenght of the ride can results in more accurate analyze of average fare per ride and driver. Number of drivers and rides can have correlation with duration of the ride. 
    - Analyzing data in 5 or 10 years can lead to more accurate results.
