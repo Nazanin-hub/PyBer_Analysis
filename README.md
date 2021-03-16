@@ -12,7 +12,7 @@ In this challenge, First, I created a summary DataFrame of the ride-sharing data
 
 ## Results:
 
- - The below results can be achived based on the below table and multi-line graph: 
+ - The results below can be achived based on the table below and multi-line graph: 
  
     - There are substantially more rides and drivers in urban cities than suburban and rural cities.
     - Urban cities have the highest total fares and rural cities have the lowest one.
