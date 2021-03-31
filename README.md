@@ -1,5 +1,7 @@
 # PyBer_Analysis
 
+Visualize and analyze ride-sharing dataset using Python, Pandas, and Matplotlib.
+
 ## Overview of the PyBer_Analysis:
 
  PyBer is a python based ride-sharing app company. I as a data analyst for PyBer used data visualization to help PyBer improve access to ride sharing services and determine        affordability for underserved neighborhoods. 
